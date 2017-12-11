@@ -1,6 +1,6 @@
 # CoLiNET
-Common utility Library for .NET
-
+**Co**mmon utility **Li**brary for .**NET**
+ 
 This library aims to provide methods for common tasks that are used over and over again in various projects. 
 
 

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Common.Library</AssemblyName>
+    <AssemblyName>CUL.NET</AssemblyName>
     <RootNamespace>De.ProgrammingWolf.Common</RootNamespace>
   </PropertyGroup>
 </Project>
